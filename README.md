@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Garzon</h1>
-<h3 align="center">I am a frontend developer with more than 3 years of experience building high quality web applications. I specialize in JavaScript, REST APIs, User Experience, and CLEAN CODE. I have knowledge in different frameworks/libraries like AngularJS, Angular 15, ReactJS, TypeScript, SASS, Bootstrap and Materialize. I work remotely in the IT industry and collaborate in a team. I am available for remote projects and looking for challenges.</h3>
+<h3 align="center">I am a frontend developer with more than 5 years of experience building high quality web applications. I specialize in JavaScript, REST APIs, User Experience, and CLEAN CODE. I have knowledge in different frameworks/libraries like Angular, ReactJS, TypeScript, Agile. I work remotely in the IT industry and collaborate in a team. I am available for remote projects and looking for challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristiangar14&label=Profile%20views&color=0e75b6&style=flat" alt="cristiangar14" /> </p>
 
-- 🔭 I’m currently working on Softpymes **Pymes +**
+- 🔭 I’m currently working on **Smartlinks Dev**
 
 - 🌱 I’m currently learning **React js and Rxjs**
 
